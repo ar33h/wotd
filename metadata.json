@@ -1,0 +1,10 @@
+{
+	"description" : "Learn a new word every day and Build your vocabulary with the Word of the Day",
+	"name" : "Word of the Day",
+	"shell-version"	: [
+		"40.1.0"
+	],
+	"url" : "",
+	"uuid" : "wotd@ar33h.com",
+	"version" : 1
+}
